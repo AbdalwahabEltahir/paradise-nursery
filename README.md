@@ -1,4 +1,3 @@
-# paradise-nursery
 # Paradise Nursery
 
 Paradise Nursery is a front-end shopping application for houseplants. Users can browse plants by category, add them to a shopping cart, adjust quantities, and view the total cost before checkout.
